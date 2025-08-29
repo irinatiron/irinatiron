@@ -28,14 +28,7 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 
 <details>
   <summary> My GitHub Stats: (click to open)</summary>
-  <div align="center">
-    
-  ![](https://nirzak-streak-stats.vercel.app/?user=irinatiron&theme=transparent&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irinatiron&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
-
-  </div>
-
-
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
