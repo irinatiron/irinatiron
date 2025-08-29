@@ -27,14 +27,11 @@ fields_of_interests:
 currently_learning: ["JavaScript, TypeScript, React and Node"]
 
 ```
-  
-
-
 
 <details>
   <summary> My GitHub Stats: (click to open)</summary>
 
-![](https://nirzak-streak-stats.vercel.app/?user=irinatiron&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=irinatiron&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=irinatiron&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irinatiron&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
 
 </details>
