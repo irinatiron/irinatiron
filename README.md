@@ -1,11 +1,40 @@
-# 💫 About Me:
-🌟 Passionate about coding and technology. <br>📚 Currently learning at Factoría F5 in Madrid.
+<h1>Hi, I'm Irina </h1>
+
+```yaml
+name: Irina Tiron
+located_in: Madrid, Spain
+current_job: Full Stack Developer Student
+about_me: Passionate about coding and technology, currently learning at Factoría F5 in Madrid
+
+education:
+  [
+    "Bootcamp Full Stack + DevOps - Factoría F5 Madrid",
+    "Bachelor's in Conservation and Restoration of Cultural Heritage - ESCRBC Madrid",
+    "Web Developer Professional Certificate - Criteria Tres Cantos"
+  ]
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/irinatiron) 
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+    "UI/UX",
+    "DevOps"
+  ]
 
-# 📊 GitHub Stats:
+  
+currently_learning: ["JavaScript, TypeScript, React and Node"]
+
+```
+  
+
+
+
+<details>
+  <summary> My GitHub Stats: (click to open)</summary>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=irinatiron&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irinatiron&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</details>
