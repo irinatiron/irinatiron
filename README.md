@@ -1,4 +1,4 @@
-<h1>Hi, I'm Irina <img src="/hand-emoji.svg" alt="Waving Hand" width="50" height="50"></h1>
+<h1>Hi, I'm Irina <img src="./hand-emoji.svg" alt="Waving Hand" width="50" height="50"></h1>
 
 ```yaml
 name: Irina Tiron
@@ -34,5 +34,12 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=irinatiron&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical)
 
   </div>
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 </details>
 
