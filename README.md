@@ -1,4 +1,4 @@
-<h1>Hi, I'm Irina </h1>
+<h1>Hi, I'm Irina <img src="/hand-emoji.svg" alt="Waving Hand" width="50" height="50"></h1>
 
 ```yaml
 name: Irina Tiron
