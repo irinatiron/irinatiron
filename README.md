@@ -13,7 +13,6 @@ education:
     "Web Developer Professional Certificate - Criteria Tres Cantos"
   ]
 
-
 fields_of_interests:
   [
     "Web Development",
@@ -22,7 +21,6 @@ fields_of_interests:
     "UI/UX",
     "DevOps"
   ]
-
   
 currently_learning: ["JavaScript, TypeScript, React and Node"]
 
