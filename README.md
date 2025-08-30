@@ -34,9 +34,9 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 56.7 kB Used in GitHub's Storage 
+> 📦 56.8 kB Used in GitHub's Storage 
  > 
-> 🏆 271 Contributions in the Year 2025
+> 🏆 274 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,10 +71,17 @@ Sunday                   46 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 42 mins             █████████████░░░░░░░░░░░░   51.00 % 
+YAML                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Git Config               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+irinatiron               1 hr 1 min          ███████████████████░░░░░░   74.21 % 
+Oceania-Butterflies-Backe18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+api-book                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+stem-tarot               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -93,7 +100,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2025 15:08:43 UTC
+ Last Updated on 30/08/2025 06:26:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
