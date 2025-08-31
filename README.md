@@ -36,8 +36,6 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 
 > 📦 56.8 kB Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -100,7 +98,7 @@ CSS                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2025 06:26:43 UTC
+ Last Updated on 31/08/2025 06:27:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
