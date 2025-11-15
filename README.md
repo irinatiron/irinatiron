@@ -34,7 +34,7 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 167.4 kB Used in GitHub's Storage 
+> 📦 167.3 kB Used in GitHub's Storage 
  > 
 > 🏆 687 Contributions in the Year 2025
  > 
@@ -71,14 +71,12 @@ Sunday                   46 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               2 hrs 10 mins       ████████████████████████░   94.39 % 
-CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-HTML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+JavaScript               1 hr                ████████████████████████░   96.83 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🐱‍💻 Projects: 
-newvalue-client          1 hr 17 mins        ██████████████░░░░░░░░░░░   56.21 % 
-newvalue-server          1 hr                ███████████░░░░░░░░░░░░░░   43.79 % 
+newvalue-client          39 mins             ████████████████░░░░░░░░░   63.80 % 
+newvalue-server          22 mins             █████████░░░░░░░░░░░░░░░░   36.20 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,7 +95,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 14/11/2025 06:33:21 UTC
+ Last Updated on 15/11/2025 06:30:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
