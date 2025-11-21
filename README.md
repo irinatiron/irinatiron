@@ -71,11 +71,10 @@ Sunday                   46 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-JavaScript               3 mins              ████████████████░░░░░░░░░   65.89 % 
-HTML                     1 min               █████████░░░░░░░░░░░░░░░░   34.11 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-newvalue-client          5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -94,7 +93,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2025 06:32:39 UTC
+ Last Updated on 21/11/2025 06:34:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
