@@ -1,10 +1,10 @@
-<h1>Hi, I'm Irina <img src="./hand-emoji.svg" alt="Waving Hand" width="50" height="50"></h1>
+<h1>Hi, I'm Irina</h1>
 
 ```yaml
 name: Irina Tiron
 located_in: Madrid, Spain
-current_job: Full Stack Developer Student
-about_me: Passionate about coding and technology, currently learning at Factoría F5 in Madrid
+current_job: Full Stack Developer
+about_me: Passionate about coding and technology
 
 education:
   [
