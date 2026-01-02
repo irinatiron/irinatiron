@@ -36,7 +36,7 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 
 > 📦 167.4 kB Used in GitHub's Storage 
  > 
-> 🏆 687 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -93,7 +93,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 31/12/2025 06:37:25 UTC
+ Last Updated on 02/01/2026 12:38:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
