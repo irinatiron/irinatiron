@@ -36,7 +36,7 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 
 > 📦 167.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 2 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -44,39 +44,6 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1148 commits        ████████░░░░░░░░░░░░░░░░░   32.08 % 
-🌆 Daytime                2000 commits        ██████████████░░░░░░░░░░░   55.88 % 
-🌃 Evening                346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-🌙 Night                  85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   356 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
-Tuesday                  739 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Wednesday                1094 commits        ████████░░░░░░░░░░░░░░░░░   30.57 % 
-Thursday                 668 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-Friday                   636 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
-Saturday                 40 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Sunday                   46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Madrid
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +60,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 02/01/2026 12:38:49 UTC
+ Last Updated on 03/01/2026 06:34:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
