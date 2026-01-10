@@ -71,15 +71,10 @@ Sunday                   46 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               52 mins             ███████████████████████░░   91.49 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ScrobbleSpace            53 mins             ███████████████████████░░   92.23 % 
-irinatiron               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +93,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2026 06:37:55 UTC
+ Last Updated on 10/01/2026 06:33:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
