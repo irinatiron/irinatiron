@@ -32,6 +32,8 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
   ---
  
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 167.5 kB Used in GitHub's Storage 
@@ -77,6 +79,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +101,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 09:54:27 UTC
+ Last Updated on 28/07/2026 08:36:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
