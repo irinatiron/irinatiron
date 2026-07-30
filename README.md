@@ -3,15 +3,6 @@
 ```yaml
 name: Irina Tiron
 located_in: Madrid, Spain
-current_job: Full Stack Developer
-about_me: Passionate about coding and technology
-
-education:
-  [
-    "Bootcamp Full Stack + DevOps - Factoría F5 Madrid",
-    "Bachelor's in Conservation and Restoration of Cultural Heritage - ESCRBC Madrid",
-    "Web Developer Professional Certificate - Criteria Tres Cantos"
-  ]
 
 fields_of_interests:
   [
@@ -27,7 +18,7 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
 ```
 
 <details>
-  <summary><b>📈 Click here to see my stats</b></summary>
+  <summary><b>Click here to see my stats</b></summary>
 
   ---
  
