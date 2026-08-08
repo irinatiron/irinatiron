@@ -23,6 +23,8 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
   ---
  
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 167.4 kB Used in GitHub's Storage 
@@ -35,6 +37,45 @@ currently_learning: ["JavaScript, TypeScript, React and Node"]
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1148 commits        ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌆 Daytime                2003 commits        ██████████████░░░░░░░░░░░   55.92 % 
+🌃 Evening                346 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌙 Night                  85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   356 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Tuesday                  739 commits         █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Wednesday                1094 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+Thursday                 669 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Friday                   638 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Saturday                 40 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Sunday                   46 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -51,7 +92,7 @@ HTML                     3 repos             ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/irinatiron/irinatiron/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 07:17:51 UTC
+ Last Updated on 08/08/2026 06:55:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
